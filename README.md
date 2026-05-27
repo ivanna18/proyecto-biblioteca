@@ -1,9 +1,9 @@
 # Sistema de Gestión de Biblioteca
 
 ## Equipo:
--Ivanna Rodríguez Rosales
--Benito Antonio Valdez Alejandro
--Victor Manuel Colin Sanchez
+- Ivanna Rodríguez Rosales
+- Benito Antonio Valdez Alejandro
+- Victor Manuel Colin Sanchez
 
 Proyecto desarrollado con MySQL 8 y Docker para la administración de préstamos de libros.
 
